@@ -28,8 +28,6 @@ The project aimed to answer key business questions such as:
 ## 🛠️ Tools & Technologies
 
 - Power BI
-- SQL
-- Microsoft Excel
 - Data Analysis
 - Business Intelligence
 - Dashboard Development
@@ -108,7 +106,7 @@ media-analysis/
 
 This repository is shared **for portfolio purposes only**.
 
-The original datasets, Power BI files, SQL scripts, and supporting project assets are **not included** to respect confidentiality and intellectual property considerations.
+The original datasets, Power BI files, and supporting project assets are **not included** to respect confidentiality and intellectual property considerations.
 
 The report demonstrates the analytical approach, reporting structure, and business insights developed throughout the project.
 
