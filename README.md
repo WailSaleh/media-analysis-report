@@ -1,255 +1,131 @@
-# 📊 Media Intelligence Analysis
+# 📊 Media Intelligence & Brand Coverage Analysis
 
-> A Business Analysis project that transforms traditional and social media data into actionable insights through Power BI dashboards, executive reporting, and strategic recommendations.
-
----
-
-# 📖 Project Overview
-
-Media intelligence helps organizations understand how they are perceived across traditional and social media channels. This project analyzes media coverage to identify trends, measure brand visibility, evaluate public sentiment, and uncover the key topics driving conversations.
-
-Using multiple media datasets, the project delivers interactive dashboards, executive reports, and business recommendations that support informed decision-making and communication strategies.
+> A business intelligence project analyzing traditional and social media coverage to uncover brand perception, media trends, and actionable business insights through data visualization and reporting.
 
 ---
 
-# 🎯 Business Objectives
+## 📖 Project Overview
 
-The primary objectives of this project were to:
+This project focuses on analyzing media coverage across traditional and social media channels to help stakeholders better understand brand visibility, media performance, and public discussions.
 
-- Analyze media coverage across traditional and social media channels.
-- Measure brand visibility and media performance.
-- Identify the most discussed topics and emerging trends.
-- Evaluate audience sentiment.
-- Generate actionable business insights.
-- Present findings through executive-level reports and dashboards.
+The objective was to transform raw media monitoring data into meaningful insights through data preparation, dashboard development, and executive reporting, enabling more informed communication and business decisions.
 
 ---
 
-# 📂 Project Deliverables
+## 🎯 Business Objectives
 
-- 📈 Interactive Power BI Dashboards
-- 📑 Executive Media Analysis Report
-- 📊 Traditional & Social Media Analysis
-- 📝 Arabic Media Coverage Summary
-- 💡 Business Insights & Strategic Recommendations
+The project aimed to answer key business questions such as:
 
----
-
-# 📊 Data Sources
-
-The analysis is based on media monitoring datasets containing information such as:
-
-- Publication Date
-- Media Source
-- Media Type
-- Platform
-- Country
-- Language
-- Reach
-- Engagement
-- Sentiment
-- Headlines
-- Article/Post Content
-
-The datasets include coverage from:
-
-### Traditional Media
-
-- News Websites
-- Newspapers
-- Magazines
-- Blogs
-- Radio
-
-### Social Media
-
-- Instagram
-- X (Twitter)
-- LinkedIn
+- How much media coverage did the brand receive?
+- Which media channels generated the highest visibility?
+- What were the main topics discussed?
+- Which regions and media outlets produced the most coverage?
+- How did traditional media compare with social media performance?
+- What strategic recommendations could improve future media performance?
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Microsoft Excel
 - Power BI
-- Microsoft PowerPoint
-- Microsoft Word
-- Data Cleaning
-- Data Visualization
-- Business Analysis
-- Trend Analysis
-- Sentiment Analysis
+- SQL
+- Microsoft Excel
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
 - Executive Reporting
 
 ---
 
-# 🔄 Project Workflow
+## 📊 Analysis Performed
 
-### 1. Data Preparation
+The report includes analysis of:
 
-- Reviewed media datasets
-- Cleaned and validated data
-- Organized traditional and social media records
-
-### 2. Data Analysis
-
-- Media volume analysis
-- Coverage trend analysis
-- Platform performance comparison
-- Sentiment analysis
-- Topic categorization
-- Geographic distribution analysis
-
-### 3. Dashboard Development
-
-Created Power BI dashboards to visualize:
-
-- Coverage trends
-- Media distribution
-- Platform performance
-- Sentiment breakdown
-- Key performance indicators (KPIs)
-
-### 4. Executive Reporting
-
-Developed a professional presentation summarizing:
-
-- Key findings
-- Business insights
-- Strategic recommendations
+- Traditional media coverage
+- Social media performance
+- Media volume trends
+- Geographic distribution
+- Media outlet performance
+- Platform comparison
+- Topic analysis
+- Brand visibility
+- Audience engagement
+- Executive insights and recommendations
 
 ---
 
-# 📈 Key Analysis Areas
+## 💼 Business Value
 
-- Media Coverage Volume
-- Media Type Distribution
-- Platform Performance
-- Geographic Coverage
-- Sentiment Analysis
-- Discussion Topics
-- Brand Visibility
-- Executive Insights
-- Strategic Recommendations
+This project demonstrates how media intelligence can support strategic decision-making by transforming large volumes of media data into clear, actionable insights.
 
----
+The analysis helps organizations to:
 
-# 💼 Business Value
-
-This project demonstrates how business analysis and data visualization can transform large volumes of media data into valuable insights that support strategic decision-making.
-
-The analysis enables stakeholders to:
-
-- Monitor brand reputation.
-- Understand public perception.
-- Measure media performance.
-- Identify communication opportunities.
-- Support evidence-based business decisions.
+- Measure brand visibility.
+- Monitor media performance.
+- Identify emerging discussion topics.
+- Evaluate communication effectiveness.
+- Support future media and marketing strategies.
 
 ---
 
-# 🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 ### Business Analysis
 
-- Business Requirements Analysis
-- Insight Generation
-- Executive Reporting
-- Stakeholder Communication
-
-### Data Analysis
-
-- Data Cleaning
-- Trend Analysis
 - KPI Analysis
-- Data Validation
+- Business Reporting
+- Stakeholder Reporting
+- Strategic Recommendations
 
-### Power BI
+### Business Intelligence
 
 - Dashboard Development
-- Interactive Visualizations
-- KPI Reporting
-- Data Modeling
+- Power BI
+- SQL
+- Data Visualization
 
-### Communication
+### Data Analytics
 
-- Data Storytelling
-- Presentation Design
-- Strategic Recommendations
+- Data Cleaning
+- Data Preparation
+- Trend Analysis
+- Media Analytics
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
-media-intelligence-analysis/
+media-analysis/
 │
-├── README.md
-│
-├── Data/
-│   ├── Traditional_Media_Data.xlsx
-│   ├── Social_Media_Data.xlsx
-│   └── Traditional_Media_Sample.xlsx
-│
-├── Power BI/
-│   ├── Media_Analysis_Dashboard.pbix
-│   └── Traditional_Media_Dashboard.pbix
-│
-├── Reports/
-│   ├── Executive_Media_Analysis_Report.pptx
-│   └── Arabic_Media_Coverage_Summary.rtf
-│
-└── Images/
-    ├── dashboard.png
-    ├── coverage-trend.png
-    ├── sentiment-analysis.png
-    ├── media-distribution.png
-    └── recommendations.png
+├── Media Analysis Report.pdf
+└── README.md
 ```
 
 ---
 
-# 📸 Dashboard Preview
+## 🔒 Confidentiality Notice
 
-*Screenshots of the dashboards and presentation will be added here.*
+This repository is shared **for portfolio purposes only**.
 
-### Executive Dashboard
+The original datasets, Power BI files, SQL scripts, and supporting project assets are **not included** to respect confidentiality and intellectual property considerations.
 
-*Dashboard overview showcasing key KPIs and media performance.*
+The report demonstrates the analytical approach, reporting structure, and business insights developed throughout the project.
 
-### Media Coverage Trends
-
-*Visualization of media coverage over time.*
-
-### Sentiment Analysis
-
-*Breakdown of positive, neutral, and negative media sentiment.*
-
-### Platform Performance
-
-*Comparison of media coverage across traditional and social media platforms.*
+Please do not reuse, redistribute, or reproduce the report without appropriate authorization.
 
 ---
 
-# 📌 Key Outcomes
+## 📌 Conclusion
 
-- Transformed raw media monitoring data into meaningful business insights.
-- Built interactive Power BI dashboards for executive reporting.
-- Identified trends, sentiment, and key discussion topics.
-- Delivered strategic recommendations based on data analysis.
-- Presented findings in a clear and professional executive format.
+This project demonstrates how Business Intelligence and data visualization can transform media monitoring data into strategic insights. By analyzing coverage across multiple media channels, the report provides decision-makers with a clear understanding of media performance, audience engagement, and opportunities to strengthen future communication strategies.
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 **Wael Saleh**
 
-Business Analyst | Operations Professional | Data Analyst
+Business Analyst | Data Analyst
 
-I enjoy transforming complex datasets into clear, actionable insights that help organizations make informed decisions through business analysis, data visualization, and executive reporting.
-
----
-
-⭐ If you found this project interesting, feel free to explore the repository and connect with me on LinkedIn.
+Passionate about transforming data into actionable insights through business analysis, business intelligence, and data visualization.
